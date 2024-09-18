@@ -1,12 +1,11 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Tami Berlin! 👋
 
 ## About Me
 I am a junior developer with a passion for coding and learning new technologies. I specialize in building web applications and improving my skills every day.
 
-- 🌱 I’m currently learning [Insert tech stack you're learning].
-- 💬 Ask me about [your specialties like React, Django, Python, etc.].
-- 📫 How to reach me: [your email, LinkedIn, etc.].
-- ⚡ Fun fact: [Insert something fun about you].
+- 🌱 I’m currently learning Django.
+- 💬 Ask me about Python, React, Java, NodeJS, C#.
+- 📫 How to reach me: tberlin0870@gmail.com.
 
 ## Technologies and Tools 🛠
 Here are some technologies and tools I work with:
@@ -18,8 +17,4 @@ Here are some technologies and tools I work with:
 
 ## GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Projects
-- [Project 1](https://github.com/yourusername/project1) - brief description of the project.
-- [Project 2](https://github.com/yourusername/project2) - brief description of the project.
 
