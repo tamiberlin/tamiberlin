@@ -95,5 +95,6 @@ Here are some technologies and tools I work with:
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images
 
-## GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tamiberlin&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamiberlin&show_icons=true&locale=en&layout=compact" alt="tamiberlin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamiberlin&show_icons=true&locale=en" alt="tamiberlin" /></p>
